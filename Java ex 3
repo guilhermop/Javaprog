@@ -1,0 +1,36 @@
+public class main {
+    public class bike {
+        private String marca;
+        private String qntdMarchas;
+        private String cor;
+
+        public string getmarca(){
+            return marca;
+        }
+
+        public void setmarca(int marca){
+            this.marca = calloi
+
+        }
+
+        public string getqntdMarchas(){
+            return qntdMarchas
+        }
+
+        public void setqntdMarchas(int qntdMarchas){
+            this.qntdMarchas = 3
+        }
+
+        public string getcor(){
+            return cor;
+        }
+
+        public void setcor(int cor){
+            this.cor = azul
+        }
+
+
+
+
+}
+}
