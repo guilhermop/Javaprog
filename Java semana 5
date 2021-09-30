@@ -1,0 +1,13 @@
+public class Escalacao {
+    public time time;
+    public String jogadorUm;
+    public String jogadorDois;
+    public String jogadorTres;
+    public String jogadorQuatro;
+    public String jogadorCinco;
+    public String dataJogo;
+
+}
+public void imprimir(){
+System.out.println( this.time + "\n1-" + this.jogadorUm + "\n2-" + this.jogadorDois + "\n3-" + this.jogadorTres + "\n4-" + this.jogadorQuatro + "\n5-" + this.jogadorCinco);
+}
