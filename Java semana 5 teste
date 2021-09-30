@@ -1,0 +1,17 @@
+public class testeEscalacao {
+
+  public static void main(String[] args) {
+
+    escalacao time = new escalacao(); 
+ 
+    escalacao.time = "flamengo";
+    escalacao.jogadorUm = "Raul";
+    escalacao.jogadorDois = "Zico";
+    escalacao.jogadorTres = "Junior";
+    escalacao.jogadorQuatro = "Nunes";
+    escalacao.jogadorCinco = "Andrade";
+    escalacao.dataJogo="30/09/2021";
+
+    escalacao.imprimir();
+  }
+}
